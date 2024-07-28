@@ -3,3 +3,7 @@ MOTRIX - https://www.youtube.com/watch?v=l7axetFL-iA
 XULIA - https://www.youtube.com/watch?v=xu8f5c_biZQ
 
 MICROFÊNIX - https://www.youtube.com/watch?v=QhKgVHNNTY4
+
+Arduino - Usando o Módulo Giroscópio/Acelerômetro - https://www.youtube.com/watch?v=o-ekkWT5C98
+
+ESP32 Web Server with MPU-6050 Accelerometer and Gyroscoppe (3D object representation) - https://www.youtube.com/watch?v=dXcF-Uqa-gw
